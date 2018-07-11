@@ -1,24 +1,22 @@
-﻿生成启动时间为 2018/7/11 星期三 上午 9:20:12。
-     1>项目“C:\GitTest\TEST\TEST\TEST.vcxproj”在节点 2 上(build 个目标)。
-     1>PrepareForBuild:
-         正在创建目录“C:\GitTest\TEST\Release\”。
-       InitializeBuildStatus:
+﻿生成启动时间为 2018/7/11 14:43:11。
+     1>项目“D:\Documents\finger\TEST\TEST\TEST.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
          正在创建“Release\TEST.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
        ClCompile:
-         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt MAIN.cpp
+         E:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt MAIN.cpp
          MAIN.cpp
        Link:
-         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\GitTest\TEST\Release\TEST.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\TEST.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\GitTest\TEST\Release\TEST.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\GitTest\TEST\Release\TEST.lib" /MACHINE:X86 Release\MAIN.obj
+         E:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Documents\finger\TEST\Release\TEST.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\TEST.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Documents\finger\TEST\Release\TEST.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Documents\finger\TEST\Release\TEST.lib" /MACHINE:X86 Release\MAIN.obj
          正在生成代码
          已完成代码的生成
-         TEST.vcxproj -> C:\GitTest\TEST\Release\TEST.exe
+         TEST.vcxproj -> D:\Documents\finger\TEST\Release\TEST.exe
        Manifest:
-         c:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\GitTest\TEST\Release\TEST.exe;#1" /manifest Release\TEST.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Documents\finger\TEST\Release\TEST.exe;#1" /manifest Release\TEST.exe.intermediate.manifest
        FinalizeBuildStatus:
          正在删除文件“Release\TEST.unsuccessfulbuild”。
          正在对“Release\TEST.lastbuildstate”执行 Touch 任务。
-     1>已完成生成项目“C:\GitTest\TEST\TEST\TEST.vcxproj”(build 个目标)的操作。
+     1>已完成生成项目“D:\Documents\finger\TEST\TEST\TEST.vcxproj”(build 个目标)的操作。
 
 生成成功。
 
-已用时间 00:00:12.75
+已用时间 00:00:00.61
