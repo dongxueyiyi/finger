@@ -12,4 +12,7 @@ printf("起步走,%d",i);
 for(int i=0;i<10;i++)
 printf("分支测试,%d",i);
 
+for(int i=0;i<10;i++)
+printf("上传分支测试,%d",i);
+
 }
